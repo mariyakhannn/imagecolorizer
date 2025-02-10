@@ -1,5 +1,7 @@
 # Overview
 Using a grayscale photograph as input, this model hallucinates a possible color version of the photograph. Used the the Caffe framework and LAB color space to implement color mapping algorithms on image inputs to colorize the image.
+For more details visit [this article](https://medium.com/@mariya.k2022/deep-learning-techniques-for-image-colorization-a-step-by-step-guide-66c5a4504877) and [video](https://youtu.be/GCN6jIiBhLo). 
+
 
 # To Use
 
