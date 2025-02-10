@@ -19,7 +19,7 @@ https://www.dropbox.com/s/dx0qvhhp5hbcx7z/colorization_release_v2.caffemodel?dl=
     git clone https://github.com/mariyakhannn/imagecolorizer.git
     cd imagecolorizer
     
-### 3. To run
+### 3. To Run
 To run the image colorization script, use the following command:
 
     python main.py --image <path_to_image>
