@@ -28,7 +28,7 @@ To run the image colorization script, use the following command:
 
 *Replace <path_to_image> with desired image path.
 
-### Note: If you plan to push this project to GitHub, be aware that the .caffemodel file exceeds GitHub's 100MB file size limit. You will need to track this file using Git LFS.
+### Note: .caffemodel file exceeds GitHub's 100MB file size limit. You will need to track this file using Git LFS.
 
 ### Credits 
 
